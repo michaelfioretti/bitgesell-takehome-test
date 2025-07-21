@@ -1,8 +1,9 @@
 # Solution
 Below are my solutions and explanations as to how I modified the code that was given to me.
 
-## Before Testing
-Please make sure to run `npm install` for both the `frontend` and `backend` packages, as dependencies have changed
+## Testing
+Please make sure to run `npm install` for both the `frontend` and `backend` packages, as dependencies have changed. Unit tests have been added to the backend and frontend, so you can run `npm test` in both directories to run the tests.
+
 ## General Improvements/Fixes
 1. Added `redis` for caching, `yup` for type validation, and other dependencies
 2. Fixed blocking code by making reads asynchronous
