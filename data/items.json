@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 2499
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399
+  },
+  {
+    "id": 3,
+    "name": "Ultra‑Wide Monitor",
+    "category": "Electronics",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 1199
+  },
+  {
+    "id": 6,
+    "name": "Smartphone X",
+    "category": "Electronics",
+    "price": 1099
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 149
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 59
+  },
+  {
+    "id": 9,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 129
+  },
+  {
+    "id": 10,
+    "name": "4K Webcam",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 11,
+    "name": "External SSD 1TB",
+    "category": "Electronics",
+    "price": 179
+  },
+  {
+    "id": 12,
+    "name": "Smartwatch Series 7",
+    "category": "Electronics",
+    "price": 399
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 99
+  },
+  {
+    "id": 14,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 39
+  },
+  {
+    "id": 15,
+    "name": "LED Desk Lamp",
+    "category": "Furniture",
+    "price": 89
+  },
+  {
+    "id": 16,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 299
+  },
+  {
+    "id": 17,
+    "name": "Filing Cabinet",
+    "category": "Furniture",
+    "price": 249
+  },
+  {
+    "id": 18,
+    "name": "Office Sofa",
+    "category": "Furniture",
+    "price": 999
+  },
+  {
+    "id": 19,
+    "name": "Coffee Table",
+    "category": "Furniture",
+    "price": 199
+  },
+  {
+    "id": 20,
+    "name": "Whiteboard",
+    "category": "Furniture",
+    "price": 149
+  },
+  {
+    "id": 21,
+    "name": "Desk Organizer",
+    "category": "Furniture",
+    "price": 39
+  },
+  {
+    "id": 22,
+    "name": "Table Lamp",
+    "category": "Furniture",
+    "price": 59
+  },
+  {
+    "id": 23,
+    "name": "Conference Phone",
+    "category": "Electronics",
+    "price": 499
+  },
+  {
+    "id": 24,
+    "name": "Projector",
+    "category": "Electronics",
+    "price": 799
+  },
+  {
+    "id": 25,
+    "name": "Printer",
+    "category": "Electronics",
+    "price": 299
+  },
+  {
+    "id": 26,
+    "name": "Scanner",
+    "category": "Electronics",
+    "price": 249
+  },
+  {
+    "id": 27,
+    "name": "Network Router",
+    "category": "Electronics",
+    "price": 129
+  },
+  {
+    "id": 28,
+    "name": "Smart Thermostat",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 29,
+    "name": "Smart Light Bulbs",
+    "category": "Electronics",
+    "price": 49
+  },
+  {
+    "id": 30,
+    "name": "Air Purifier",
+    "category": "Electronics",
+    "price": 299
+  },
+  {
+    "id": 31,
+    "name": "Laser Pointer",
+    "category": "Electronics",
+    "price": 29
+    },
+    {
+    "id": 32,
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 69
+    },
+    {
+    "id": 33,
+    "name": "Portable Projector Screen",
+    "category": "Furniture",
+    "price": 159
+    },
+    {
+    "id": 34,
+    "name": "Adjustable Footrest",
+    "category": "Furniture",
+    "price": 49
+    },
+    {
+    "id": 35,
+    "name": "Desk Mat",
+    "category": "Furniture",
+    "price": 39
+    },
+    {
+    "id": 36,
+    "name": "Monitor Stand",
+    "category": "Furniture",
+    "price": 69
+    },
+    {
+    "id": 37,
+    "name": "Cable Management Box",
+    "category": "Furniture",
+    "price": 29
+    },
+    {
+    "id": 38,
+    "name": "Surge Protector",
+    "category": "Electronics",
+    "price": 39
+    },
+    {
+    "id": 39,
+    "name": "Wireless Presenter",
+    "category": "Electronics",
+    "price": 49
+    },
+    {
+    "id": 40,
+    "name": "Document Shredder",
+    "category": "Electronics",
+    "price": 129
+    },
+    {
+    "id": 41,
+    "name": "Desktop Fan",
+    "category": "Electronics",
+    "price": 59
+    },
+    {
+    "id": 42,
+    "name": "Mini Fridge",
+    "category": "Furniture",
+    "price": 249
+    },
+    {
+    "id": 43,
+    "name": "Office Plant",
+    "category": "Furniture",
+    "price": 39
+    },
+    {
+    "id": 44,
+    "name": "Wall Clock",
+    "category": "Furniture",
+    "price": 49
+    },
+    {
+    "id": 45,
+    "name": "Desk Calendar",
+    "category": "Furniture",
+    "price": 19
+    },
+    {
+    "id": 46,
+    "name": "Sticky Notes Set",
+    "category": "Furniture",
+    "price": 9
+    },
+    {
+    "id": 47,
+    "name": "Pen Holder",
+    "category": "Furniture",
+    "price": 15
+    },
+    {
+    "id": 48,
+    "name": "Whiteboard Markers",
+    "category": "Furniture",
+    "price": 12
+    },
+    {
+    "id": 49,
+    "name": "Desk Drawer Organizer",
+    "category": "Furniture",
+    "price": 25
+    },
+    {
+    "id": 50,
+    "name": "Laptop Stand",
+    "category": "Furniture",
+    "price": 59
+    },
+    {
+    "id": 51,
+    "name": "Ergonomic Foot Stool",
+    "category": "Furniture",
+    "price": 45
+    },
+    {
+    "id": 52,
+    "name": "Smart Plug",
+    "category": "Electronics",
+    "price": 29
+    },
+    {
+    "id": 53,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 149
+    },
+    {
+    "id": 54,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 59
+    },
+    {
+    "id": 55,
+    "name": "Bluetooth Adapter",
+    "category": "Electronics",
+    "price": 19
+    },
+    {
+    "id": 56,
+    "name": "Smart Lock",
+    "category": "Electronics",
+    "price": 199
+    },
+    {
+    "id": 57,
+    "name": "Conference Camera",
+    "category": "Electronics",
+    "price": 599
+    },
+    {
+    "id": 58,
+    "name": "Digital Voice Recorder",
+    "category": "Electronics",
+    "price": 89
+    },
+    {
+    "id": 59,
+    "name": "Label Printer",
+    "category": "Electronics",
+    "price": 99
+    },
+    {
+    "id": 60,
+    "name": "Paper Cutter",
+    "category": "Furniture",
+    "price": 49
+    },
+    {
+    "id": 61,
+    "name": "Filing Trays",
+    "category": "Furniture",
+    "price": 29
+    },
+    {
+    "id": 62,
+    "name": "Magazine Rack",
+    "category": "Furniture",
+    "price": 35
+    },
+    {
+    "id": 63,
+    "name": "Coat Rack",
+    "category": "Furniture",
+    "price": 69
+    },
+    {
+    "id": 64,
+    "name": "Umbrella Stand",
+    "category": "Furniture",
+    "price": 39
+    },
+    {
+    "id": 65,
+    "name": "Smart Display",
+    "category": "Electronics",
+    "price": 249
+    },
+    {
+    "id": 66,
+    "name": "Wireless Security Camera",
+    "category": "Electronics",
+    "price": 179
+    },
+    {
+    "id": 67,
+    "name": "Smart Doorbell",
+    "category": "Electronics",
+    "price": 129
+    },
+    {
+    "id": 68,
+    "name": "Portable Heater",
+    "category": "Electronics",
+    "price": 89
+    },
+    {
+    "id": 69,
+    "name": "Air Conditioner",
+    "category": "Electronics",
+    "price": 499
+    },
+    {
+    "id": 70,
+    "name": "Desk Partition",
+    "category": "Furniture",
+    "price": 99
+    },
+    {
+    "id": 71,
+    "name": "Monitor Privacy Filter",
+    "category": "Electronics",
+    "price": 79
+    },
+    {
+    "id": 72,
+    "name": "Laptop Backpack",
+    "category": "Furniture",
+    "price": 89
+    },
+    {
+    "id": 73,
+    "name": "Cable Clips",
+    "category": "Furniture",
+    "price": 12
+    },
+    {
+    "id": 74,
+    "name": "Desk Grommet",
+    "category": "Furniture",
+    "price": 8
+    },
+    {
+    "id": 75,
+    "name": "Smart Pen",
+    "category": "Electronics",
+    "price": 99
+    },
+    {
+    "id": 76,
+    "name": "Digital Notepad",
+    "category": "Electronics",
+    "price": 149
+    },
+    {
+    "id": 77,
+    "name": "Wireless HDMI Transmitter",
+    "category": "Electronics",
+    "price": 199
+    },
+    {
+    "id": 78,
+    "name": "Smart Speaker",
+    "category": "Electronics",
+    "price": 129
+    },
+    {
+    "id": 79,
+    "name": "Desk Pad",
+    "category": "Furniture",
+    "price": 29
+    },
+    {
+    "id": 80,
+    "name": "Ergonomic Wrist Rest",
+    "category": "Furniture",
+    "price": 19
+    }
+]
