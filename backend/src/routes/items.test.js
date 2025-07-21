@@ -37,30 +37,34 @@ beforeEach(() => {
 
 describe('Items API', () => {
   const app = setupApp();
+  const expectedResponse = {
+    data: mockItems,
+    totalCount: mockItems.length,
+  }
 
   describe('GET /api/items', () => {
     it('returns all items', async () => {
       const res = await request(app).get('/api/items');
       expect(res.status).toBe(200);
-      expect(res.body).toEqual(mockItems);
+      expect(res.body).toEqual(expectedResponse);
     });
 
     it('filters items by query', async () => {
       const res = await request(app).get('/api/items?q=app');
       expect(res.status).toBe(200);
-      expect(res.body).toEqual([mockItems[0]]);
+      expect(res.body).toEqual({data: [mockItems[0]], totalCount: 3});
     });
 
     it('limits the number of items', async () => {
       const res = await request(app).get('/api/items?limit=2');
       expect(res.status).toBe(200);
-      expect(res.body.length).toBe(2);
+      expect(res.body.data.length).toBe(2);
     });
 
     it('returns empty array if no items match query', async () => {
       const res = await request(app).get('/api/items?q=zzz');
       expect(res.status).toBe(200);
-      expect(res.body).toEqual([]);
+      expect(res.body.data).toEqual([]);
     });
   });
 
