@@ -1,8 +1,7 @@
 import React, { createContext, useCallback, useContext, useState } from 'react';
-import { API_URL } from '../constants';
+import { API_URL, DEFAULT_LIMIT } from '../constants';
 
 const DataContext = createContext();
-const DEFAULT_LIMIT = 10
 
 export function DataProvider({ children }) {
   const [items, setItems] = useState([]);
